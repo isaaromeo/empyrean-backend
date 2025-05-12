@@ -2,6 +2,7 @@
 const express = require("express");
 const app = express();
 const port = process.env.PORT || 3001;
+const cors = require("cors");
 
 //Consfiguramos el dotenv
 require("dotenv").config()
@@ -10,6 +11,9 @@ require("dotenv").config()
 const { connectCloudinary } = require("./src/config/cloudinary")
 connectCloudinary();
 
+// Add CORS middleware here - right before your routes
+// Option 1: Basic CORS (allows all origins - good for development)
+app.use(cors());
 
 //traemos enrutador characters
 const charactersRouter = require("./src/api/routes/character");

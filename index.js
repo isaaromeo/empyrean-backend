@@ -19,7 +19,7 @@ app.use(cors());
 const charactersRouter = require("./src/api/routes/character");
 //traemos enrutador dragons
 const dragonsRouter = require("./src/api/routes/dragon");
-// const usersRoutes = require('./src/api/routes/user');
+const booksRouter = require('./src/api/routes/book');
 
 //conectamos bbdd
 const { connectDB } = require("./src/config/db")
@@ -29,8 +29,7 @@ connectDB();
 app.use(express.json());
 
 //rutas servidor
-// app.use("/api/books", booksRouter);
-
+app.use("/api/books", booksRouter);
 app.use("/api/characters", charactersRouter);
 app.use("/api/dragons", dragonsRouter);
 

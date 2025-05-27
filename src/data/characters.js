@@ -128,7 +128,7 @@ const characters = [
     ],
   },
   {
-    id: 15,
+    id: 3,
     name: "Bodhi Durran",
     age: 24,
     location: "Aretia",
@@ -165,7 +165,7 @@ const characters = [
     ],
   },
   {
-    id: 23,
+    id: 4,
     name: "Liam Mairi",
     age: 22,
     location: "Aretia ",
@@ -207,7 +207,7 @@ const characters = [
     ],
   },
   {
-    id: 24,
+    id: 5,
     name: "Mira Sorrengail",
     age: 26,
     location: "Navarre's Front Lines",
@@ -241,7 +241,7 @@ const characters = [
     ],
   },
   {
-    id: 29,
+    id: 6,
     name: "Ridoc Gamlyn",
     age: 22,
     location: "Aretia",
@@ -273,7 +273,7 @@ const characters = [
     appearances: ["Fourth Wing", "Iron Flame", "Onyx Storm"],
   },
   {
-    id: 30,
+    id: 7,
     name: "Sawyer Henrick",
     age: 23,
     location: "Aretia",
@@ -301,7 +301,7 @@ const characters = [
     appearances: ["Fourth Wing", "Iron Flame"],
   },
   {
-    id: 6,
+    id: 8,
     name: "Rhiannon Matthias",
     age: 21,
     location: "Basgiath",
@@ -328,7 +328,7 @@ const characters = [
     appearances: ["Fourth Wing", "Iron Flame", "Onyx Storm"],
   },
   {
-    id: 7,
+    id: 9,
     name: "Dain Aetos",
     age: 21,
     location: "Basgiath",
@@ -366,7 +366,7 @@ const characters = [
     ],
   },
   {
-    id: 3,
+    id: 10,
     name: "Brennan Sorrengail",
     age: 28,
     location: "Aretia",
@@ -408,7 +408,7 @@ const characters = [
     ],
   },
   {
-    id: 21,
+    id: 11,
     name: "Jesinia Neilwart",
     age: 20,
     location: "Basgiath",
@@ -439,7 +439,7 @@ const characters = [
     ],
   },
   {
-    id: 8,
+    id: 12,
     name: "Jack Barlowe",
     age: 24,
     location: "Basgiath",
@@ -466,7 +466,7 @@ const characters = [
     appearances: ["Fourth Wing", "Iron Flame", "Onyx Storm"],
   },
   {
-    id: 9,
+    id: 13,
     name: "Imogen Cardulo",
     age: 22,
     location: "Aretia",
@@ -503,7 +503,7 @@ const characters = [
     ],
   },
   {
-    id: 5,
+    id: 14,
     name: "Aaric Graycastle (Cam Tauri)",
     age: 22,
     location: "Basgiath",
@@ -536,7 +536,7 @@ const characters = [
     ],
   },
   {
-    id: 31,
+    id: 15,
     name: "Sloane Mairi",
     age: 19,
     location: "Aretia",
@@ -570,7 +570,7 @@ const characters = [
     ],
   },
   {
-    id: 18,
+    id: 16,
     name: "Catriona Cordella",
     age: 22,
     location: "Basgiath",
@@ -597,7 +597,7 @@ const characters = [
     appearances: ["Fourth Wing", "Iron Flame", "Onyx Storm"],
   },
   {
-    id: 4,
+    id: 17,
     name: "General Lilith Sorrengail",
     age: 50,
     location: "Basgiath",

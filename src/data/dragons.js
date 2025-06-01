@@ -7,6 +7,7 @@ const dragons = [
     color: "Black",
     tail: "Morningstar tail",
     bonded_rider: "Violet Sorrengail",
+    name_meaning: "Thunder",
     status: "Alive",
     bio: [
       "Tairneanach, most commonly known as Tairn, is the bonded dragon of Violet Sorrengail and mate of Sgaeyl. He is currently the second largest dragon in active service and the only other black dragon aside from Codagh.",
@@ -49,6 +50,7 @@ const dragons = [
     color: "Iridiscent",
     tail: "Feathertail",
     bonded_rider: "Violet Sorrengail",
+    name_meaning: "Light / Radiance",
     status: "Alive",
     bio: [
       "Andarnaurram, more commonly known as Andarna, is an adolescent scorpiontail dragon, from a previously unknown 7th breed, capable of changing the color of her scales. She bonded Violet Sorrengail as her rider.",
@@ -82,6 +84,7 @@ const dragons = [
     color: "Blue",
     tail: "Daggertail",
     bonded_rider: "Xaden Riorson",
+    name_meaning: "Shade / Shadow",
     status: "Alive",
     bio: [
       "Sgaeyl is a blue daggertail, the rarest of the blues, ruthless doesn’t even begin to degin to describe her, nor does she abide by what we assume to be what the dragons consider law.",
@@ -116,6 +119,7 @@ const dragons = [
     color: "Green",
     tail: "Daggertail",
     bonded_rider: "Rhiannon Matthias",
+    name_meaning: "Of Anger",
     status: "Alive",
     bio: [
       "Feirge is a Green Daggertail dragon bonded to Rhiannon Matthias. She fights in the Battle of Draitus, helping to defend the civilians who navigate the Medaro Pass. In Scottish Gaelic, feirge means 'of anger' It is the genetive case of 'fearg' (anger).",
@@ -138,6 +142,7 @@ const dragons = [
     color: "Red",
     tail: "Daggertail",
     bonded_rider: "Liam Mairi",
+    name_meaning: "Frost / Ice",
     status: "Deceased",
     bio: [
       "Liam's dragon. Deigh was considered large by red daggertail standards, according to Violet. He had golden eyes. Deigh was described by Xaden Riorson as an exceptionally strong red daggertail.",
@@ -154,6 +159,7 @@ const dragons = [
     color: "Green",
     tail: "Clubtail",
     bonded_rider: "Mira Sorrengail",
+    name_meaning: "Fire",
     status: "Alive",
     bio: [
       "Mira's battle-hardened dragon. Often stationed at the front lines. Mira uses Teine's scales to create the defensive vest Mira gives to Violet to provide her with extra protection.",
@@ -170,6 +176,7 @@ const dragons = [
     color: "Brown",
     tail: "Swordtail",
     bonded_rider: "Ridoc Gamlyn",
+    name_meaning: "Light / Nimble",
     status: "Alive",
     bio: [
       "Aotrom is a brown swordtail that bonds with Ridoc during Threshing in 633 AU. He is is twenty-two years old during the events of Onyx Storm. He's roughly the half the size of Tairn.",
@@ -186,6 +193,7 @@ const dragons = [
     color: "Red",
     tail: "Swordtail",
     bonded_rider: "Sawyer Henrick",
+    name_meaning: "Sliver / Slice / Chip",
     status: "Alive",
     bio: [
       "Sawyer's dragon. Survives the battle at Basgiath where Sawyer loses his leg.",
@@ -202,6 +210,7 @@ const dragons = [
     color: "Red",
     tail: "Swordtail",
     bonded_rider: "Dain Aetos",
+    name_meaning: "Battle",
     status: "Alive",
     bio: [
       "Dain's dragon. Shares his rider's \"by the rules\" demeanor. Cath is on the ledge at the first formation of new cadets. He attempts to stop Solas from torching a cadet.",
@@ -218,6 +227,7 @@ const dragons = [
     color: "Black",
     tail: "Swordtail",
     bonded_rider: "General Melgren",
+    name_meaning: "Conflict / Strife",
     status: "Alive",
     bio: [
       "General Melgren's dragon. One of the most feared dragons in Navarre. Codagh is the eldest of the black dragon den.[1] Codagh is the dragon who executed the leaders of the Tyrrish Rebellion six years before the events of Fourth Wing in Calldyr.",
@@ -240,6 +250,7 @@ const dragons = [
     color: "Orange",
     tail: "Scorpiontail",
     bonded_rider: "Jack Barlowe",
+    name_meaning: "Fury / Passion",
     status: "Deceased",
     bio: ["Jack's former dragon. Killed by Jack when he turned venin."],
     image_url:
@@ -254,6 +265,7 @@ const dragons = [
     color: "Green",
     tail: "Swordtail",
     bonded_rider: "Bodhi Durran",
+    name_meaning: "Put / Place / Send",
     status: "Alive",
     bio: [
       "Cuir is a green dragon, which are known for their keen intellect and rational countenance.",
@@ -270,6 +282,7 @@ const dragons = [
     color: "Orange",
     tail: "Daggertail",
     bonded_rider: "Brennan Sorrengail",
+    name_meaning: "Dead / Death",
     status: "Alive",
     bio: [
       "It is believed that Marbh and Brennan died in the Battle of Aretia. Brennan explains that after the Battle of Aretia he woke up on a cliffside not far from Riorson House. Marbh was wounded but still alive. Other dragons in Aretia helped hide Brennan and Marbh in a network of caves within the valley.",
@@ -286,6 +299,7 @@ const dragons = [
     color: "Brown",
     tail: "Scorpiontail",
     bonded_rider: "Garrick Tavis",
+    name_meaning: "Wound / Scar",
     status: "Alive",
     bio: [
       "Chradh  is a brown scorpiontail dragon who is bonded to Garrick Tavis. Chradh has the ability to sense runes and is remarkably sensitive to them. On October 1st, 631 AU, Chradh bonded Garrick. Professor Kaori's record did not reveal that Chradh had previously bonded Garrick's direct descendant; this gave Garrick two signets which they have kept secret from Navarrian leadership.",

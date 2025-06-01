@@ -9,6 +9,7 @@ const dragonSchema = new Schema(
     color: { type: String, required: true, trim: true },
     tail: { type: String, required: true, trim: true },
     bonded_rider: { type: String, required: true, trim: true },
+    name_meaning: { type: String, required: true, trim: true },
     status: { type: String, trim: true, required: true },
     bio: [{ type: String, required: true, trim: true }],
     image_url: { type: String, trim: true, required: true },
